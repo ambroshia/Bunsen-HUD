@@ -26,14 +26,14 @@ For Steam/Proton users, the Elite Dangerous AppData Graphics settings folder is 
 
 Simply download the `GraphicsConfigurationOverride.xml` from this git repository and copy the file into the Graphics folder to install Bunsen Hud.
 
-## Screenshots - WIP
+## Screenshots
 #### Hostile players as they appear on radar. Direct hostiles are shown as red, while wing hostiles are shown as purple/pink.
 ![Hostile players on radar](screenshots/wing_hostiles.png)
 
 #### Bunsen HUD inside a regular icy ring, with the interface brightness set to the recommended value of '6'.
 ![Normal icy rings](screenshots/normal_icy_rings_6_brightness.jpeg)
 
-#### The HUD as it appears inside a high metallic content rocky ring, with the interface brightness set to the recommended value of '6'. The reticle easily stands out even above the thickest of the ring's haze.
+#### The HUD as it appears inside a normal rocky ring, with the interface brightness set to the recommended value of '6'. The reticle easily stands out even above the thickest of the ring's haze.
 ![High metal content rocky rings](screenshots/normal_rocky_rings_6_brightness.jpeg)
 
 #### The HUD reticle as it appears on EXTREME levels of fog (present in particular types of rocky rings). If this were the default hud, the reticle would be barely visible above such heavy fog.
@@ -48,7 +48,15 @@ Simply download the `GraphicsConfigurationOverride.xml` from this git repository
 #### The NPC portraits appear perfectly normal, without any weird colour filters.
 ![NPC Portraits](screenshots/npc_portraits.jpeg)
 
-## Videos - WIP
+## Videos
+All videos are recorded with the recommended HUD brightness of 6/10.
+
+#### Open Space
+https://www.youtube.com/watch?v=4RrjMDVVMKU
+https://www.youtube.com/watch?v=JRe2u_O9RC0
+
+#### Icy Rings
+https://www.youtube.com/watch?v=1K4S2pzWe8U
 
 ## Copyright
 Bunsen Hud is licenced under the [WTFPL](LICENSE).
