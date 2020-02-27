@@ -1,5 +1,7 @@
 # Bunsen Hud - High Performance, High Visibility Elite Dangerous HUD colour matrix
-Bunsen Hud is a custom designed colour scheme, aimed at providing clear information regardless of the environment.
+![screenshot montage](screenshots/montage.jpg)
+
+Bunsen Hud is a HUD colour scheme aimed at providing clear information regardless of the environment.
 
 By changing the HUD brightness factor in your ship's setting panels, you can adjust this HUD for regular travel by setting a low brightness, or raise the brightness factor to make the reticle stand out in asteroid belts with heavy fog.
 
