@@ -1,9 +1,9 @@
 # Bunsen Hud - High Performance, High Visibility Elite Dangerous HUD colour matrix
 Bunsen Hud is a custom designed colour scheme, aimed at providing clear information regardless of the environment.
 
-By changing the HUD brightness factor in your ship's setting panels, you can adjust the HUD for regular travel by setting a low brightness, or raise the brightness factor to make the reticle stand out in asteroid belts with heavy fog.
+By changing the HUD brightness factor in your ship's setting panels, you can adjust this HUD for regular travel by setting a low brightness, or raise the brightness factor to make the reticle stand out in asteroid belts with heavy fog.
 
-**The default recommended HUD brightness factor is _6/10_ for the best balance between reticle visibility and HUD bloom**
+**The default recommended HUD brightness factor is around _6/10_ for the best balance between reticle visibility and HUD bloom**
 
 ## Installation
 If you already have a `GraphicsConfigurationOverride.xml` file, you can simply start using it by replacing the values in the color matrix with the values below:
@@ -26,11 +26,25 @@ Simply download the `GraphicsConfigurationOverride.xml` from this git repository
 
 ## Screenshots - WIP
 #### Hostile players as they appear on radar. Direct hostiles are shown as red, while wing hostiles are shown as purple/pink.
-![Hostile players on radar](wing_hostiles.png)
+![Hostile players on radar](screenshots/wing_hostiles.png)
 
+#### Bunsen HUD inside a regular icy ring, with the interface brightness set to the recommended value of '6'.
+![Normal icy rings](screenshots/normal_icy_rings_6_brightness.jpeg)
 
-#### The Bunsen HUD reticle above EXTREME levels of fog (present in particular types of rocky rings). The reticle of the default hud would not be visible above such heavy fog.
-![Extremely heavy fog](algorab_level_fog.jpeg)
+#### The HUD as it appears inside a high metallic content rocky ring, with the interface brightness set to the recommended value of '6'. The reticle easily stands out even above the thickest of the ring's haze.
+![High metal content rocky rings](screenshots/normal_rocky_rings_6_brightness.jpeg)
+
+#### The HUD reticle as it appears on EXTREME levels of fog (present in particular types of rocky rings). If this were the default hud, the reticle would be barely visible above such heavy fog.
+![Extremely foggy rocky rings](screenshots/algorab_level_fog.jpeg)
+
+#### Hud brightness set to lowest ('0'), while parked on a landing pad.
+![Parked ship min brightness](screenshots/parked_0_brightness.jpeg)
+
+#### Hud brightness set to maximum ('10'), while parked on a landing pad.
+![Parked ship max brightness](screenshots/parked_10_brightness.jpeg)
+
+#### The NPC portraits appear perfectly normal, without any weird colour filters.
+![NPC Portraits](screenshots/npc_portraits.jpeg)
 
 ## Videos - WIP
 
