@@ -28,8 +28,9 @@ Simply download the `GraphicsConfigurationOverride.xml` from this git repository
 #### Hostile players as they appear on radar. Direct hostiles are shown as red, while wing hostiles are shown as purple/pink.
 ![Hostile players on radar](wing_hostiles.png)
 
+
 #### The Bunsen HUD reticle above EXTREME levels of fog (present in particular types of rocky rings). The reticle of the default hud would not be visible above such heavy fog.
-![Extremely heavy fog](algorab_level_fog.png)
+![Extremely heavy fog](algorab_level_fog.jpeg)
 
 ## Videos - WIP
 
