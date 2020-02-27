@@ -24,14 +24,14 @@ For Steam/Proton users, the Elite Dangerous AppData Graphics settings folder is 
 
 Simply download the `GraphicsConfigurationOverride.xml` from this git repository and copy the file into the Graphics folder to install Bunsen Hud.
 
-## Screenshots
-#### Hostile players as they appear on radar. Direct hostiles are shown as red, while wing hostiles are shown as purple.
+## Screenshots - WIP
+#### Hostile players as they appear on radar. Direct hostiles are shown as red, while wing hostiles are shown as purple/pink.
 ![Hostile players on radar](wing_hostiles.png)
 
-WIP
+#### The Bunsen HUD reticle above EXTREME levels of fog (present in particular types of rocky rings). The reticle of the default hud would not be visible above such heavy fog.
+![Extremely heavy fog](algorab_level_fog.png)
 
-## Videos
-WIP
+## Videos - WIP
 
 ## Copyright
 Bunsen Hud is licenced under the [WTFPL](LICENSE).
