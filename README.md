@@ -19,7 +19,7 @@ If you already have a `GraphicsConfigurationOverride.xml` file, you can simply s
 If this is your first time using a custom HUD colour scheme, please refer to the platform-specific instructions below to see where you should put the `GraphicsConfigurationOverride.xml` file.
 
 ### Installation - Windows
-WIP
+The `GraphicsConfigurationOverride.xml` file should be placed in the Graphics folder at `<drive>:\Users\<user>\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\`
 
 ### Installation - GNU/Linux
 For Steam/Proton users, the Elite Dangerous AppData Graphics settings folder is located at `STEAM_ROOT_FOLDER/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Local Settings/Application Data/Frontier Developments/Elite Dangerous/Options/Graphics/`
@@ -53,6 +53,7 @@ All videos are recorded with the recommended HUD brightness of 6/10.
 
 #### Open Space
 https://www.youtube.com/watch?v=4RrjMDVVMKU
+
 https://www.youtube.com/watch?v=JRe2u_O9RC0
 
 #### Icy Rings
